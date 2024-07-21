@@ -1,5 +1,5 @@
 // Configura la fecha y hora objetivo para la cuenta atrás
-const targetDate = new Date("2024-07-22T04:30:00").getTime();
+const targetDate = new Date("2024-07-24T06:30:00").getTime();
 
 // Actualiza la cuenta atrás cada segundo
 const interval = setInterval(() => {
